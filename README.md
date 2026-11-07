@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0002-add-two-numbers) |
+| [0138-copy-list-with-random-pointer](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0138-copy-list-with-random-pointer) |
 ## Matrix
 |  |
 | ------- |
