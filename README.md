@@ -25,6 +25,7 @@
 | [0048-rotate-image](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3693-climbing-stairs-ii](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/3693-climbing-stairs-ii) |
 ## Math
 |  |
 | ------- |
@@ -76,4 +77,8 @@
 | ------- |
 | [0048-rotate-image](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3693-climbing-stairs-ii](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/3693-climbing-stairs-ii) |
 <!---LeetCode Topics End-->
